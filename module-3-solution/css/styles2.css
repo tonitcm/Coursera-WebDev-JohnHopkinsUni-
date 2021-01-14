@@ -1,0 +1,91 @@
+
+
+* {
+	box-sizing: border-box;
+
+}
+
+body{
+	background-image: url("background2.jpg");
+}
+
+
+/*NAVBAR*/
+
+#header-nav {
+  background-color: #261b1b;
+  border-radius: 0; 
+  border: 0;
+
+}
+
+#nav-list a{
+
+  text-align: center;
+  font-size: 1.4em;
+  color: #dfe4ed;
+
+}
+
+.navbar-brand h1 {
+  color: #e6d1d1;
+}
+
+.custom-toggler.navbar-toggler { 
+  background-color: #f5c645; 
+  border: 1px solid #61122f;
+    
+} 
+
+/*END NAVBAR*/
+
+#menu {
+	margin-top: 4%;
+	text-align: center;
+	font-size: 200%;
+	font-family: Verdana, Arial;
+	font-weight: bold;
+
+}
+
+p {
+
+	font-family: Trebuchet MS, Arial; 
+}
+section {
+
+   margin-top: 20px;
+	 border: 1px solid black;
+	 padding: 6px;
+	 background-color: #d1cdcd;
+
+}
+
+.heading {
+	border: 1px solid black;
+	position: relative;
+	margin-left: 72%;
+	left: 7px;
+	bottom: 7px;
+	padding: 2%;
+	font-size: 130%;
+}
+
+#beef {
+	background-color: #f54251;
+	text-align: center;
+	font-family: Verdana, Arial;
+}
+
+#chicken {
+	background-color: #f5bf42;
+	text-align: center;
+	font-family: Verdana, Arial;
+}
+
+#sushi {
+	background-color: #42f5e9;
+	text-align: center;
+	font-family: Verdana, Arial;
+}
+
